@@ -19,4 +19,4 @@
 
 000
 
-mast-text
+master-text
