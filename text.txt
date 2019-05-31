@@ -18,6 +18,3 @@
 999
 
 000
-
-dev-text
-master-text
