@@ -21,5 +21,3 @@
 dev-text
 
 master-text
-
-
